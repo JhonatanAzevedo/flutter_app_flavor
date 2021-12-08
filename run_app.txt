@@ -1,0 +1,6 @@
+
+//para rodar na versao dev
+flutter run --flavor dev -t lib/main-dev.dart  
+
+//para rodar na versao prod
+flutter run --flavor prod -t lib/main-prod.dart 

@@ -4,3 +4,6 @@ flutter run --flavor dev -t lib/main-dev.dart
 
 //para rodar na versao prod
 flutter run --flavor prod -t lib/main-prod.dart 
+
+//Quando terminar de definir a configuração do flavourizr, você executando o script com:
+flutter pub run flutter_flavorizr 
